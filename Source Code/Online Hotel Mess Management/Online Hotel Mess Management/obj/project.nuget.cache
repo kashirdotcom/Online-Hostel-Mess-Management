@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilFtUSWXKIYmRM5rPzNqXf2xRv5G2NnN7meSTgFxyW8xqN0iDrfD7EDUxK/AhPA04tsfU7AT9sNVfcrYqAg69A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasna\\source\\repos\\Online Hotel Mess Management\\Online Hotel Mess Management\\Online Hotel Mess Management.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasna\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
