@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Home Page.html" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
@@ -93,7 +94,6 @@
   <ItemGroup>
     <Folder Include="Assets\Images\" />
     <Folder Include="Bootstrap\" />
-    <Folder Include="Home Screen Bootstrap\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
